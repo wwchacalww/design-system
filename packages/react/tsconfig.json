@@ -1,0 +1,6 @@
+{
+  "extends": "@ielo-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
