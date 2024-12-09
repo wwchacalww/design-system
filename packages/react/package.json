@@ -6,8 +6,8 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts",
-    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
@@ -17,7 +17,10 @@
     "@ielo-ui/eslint-config": "*",
     "@ielo-ui/tokens": "*",
     "@ielo-ui/ts-config": "*",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.1",
+    "react": "^19.0.0",
     "tsup": "^8.3.5",
-    "typescript": "^5.3.3"
+    "typescript": "^5.7.2"
   }
 }
