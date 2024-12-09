@@ -17,6 +17,6 @@
     "@ielo-ui/eslint-config": "*",
     "@ielo-ui/ts-config": "*",
     "tsup": "^8.3.5",
-    "typescript": "^5.3.3"
+    "typescript": "^5.7.2"
   }
 }
