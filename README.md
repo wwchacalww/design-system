@@ -20,3 +20,8 @@
  - [X] Checkbox
  - [X] Avatar
  - [X] MultiStep
+## Melhorias no Storybook
+ - [X] Display name dos componentes
+ - [X] Log de ações dos componentes
+ - [X] Controles nos componentes
+ - [X] Addon de acessibilidade

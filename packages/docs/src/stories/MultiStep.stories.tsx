@@ -8,6 +8,7 @@ export default {
     size: 4,
     currentStep: 1,
   },
+  tags: ['autodocs'],
   decorators: [
     (Story) => {
       return (

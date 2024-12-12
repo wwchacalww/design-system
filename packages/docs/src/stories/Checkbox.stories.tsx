@@ -5,6 +5,7 @@ export default {
   title: 'Form/Checkbox',
   component: Checkbox,
   args: {},
+  tags: ['autodocs'],
   decorators: [
     (Story) => {
       return (
