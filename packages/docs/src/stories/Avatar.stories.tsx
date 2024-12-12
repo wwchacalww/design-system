@@ -8,6 +8,14 @@ export default {
     src: 'https://github.com/wwchacalww.png',
     alt: 'Chacal.Dev',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
+  tags: ['autodocs'],
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
