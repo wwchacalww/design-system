@@ -25,3 +25,9 @@
  - [X] Log de ações dos componentes
  - [X] Controles nos componentes
  - [X] Addon de acessibilidade
+## Publicação e Manutenção
+ - [X] Publicando Storybook
+ - [ ] Configurando Changesets
+ - [ ] Cache na Github Actions
+ - [ ] CI/CD dos pacots NPM 
+ - [ ] Ajustes no Design System
