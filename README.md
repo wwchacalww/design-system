@@ -26,7 +26,7 @@
  - [X] Controles nos componentes
  - [X] Addon de acessibilidade
 ## Publicação e Manutenção
- - [ ] Publicando Storybook
+ - [X] Publicando Storybook
  - [ ] Configurando Changesets
  - [ ] Cache na Github Actions
  - [ ] CI/CD dos pacots NPM 
