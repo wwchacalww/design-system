@@ -24,6 +24,4 @@ export const colors = {
 
   red: '#F75A68',
   redDark: '#AA2834',
-
-  test: '#FFF',
 }
