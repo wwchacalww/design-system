@@ -5,12 +5,12 @@ export interface TextInputProps extends ComponentProps<typeof Input> {
   prefix?: string
 }
 
-export const TextInput = forwardRef<Ref<typeof Input>, TextInputProps>(
+export const TextInput = forwardRef<Ref<HTMLInputElement>, TextInputProps>(
   ({ prefix, ...props }: TextInputProps, ref) => {
     return (
       <TextInputContainer>
         {!!prefix && <Prefix>{prefix}</Prefix>}
-        <Input ref={ref} {...props} />
+        <Input ref={ref as any} {...props} />
       </TextInputContainer>
     )
   },

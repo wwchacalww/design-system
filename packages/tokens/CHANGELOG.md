@@ -1,5 +1,11 @@
 # @ielo-ui/tokens
 
+## 1.1.2
+
+### Patch Changes
+
+- Fix error on TextInput
+
 ## 1.1.1
 
 ### Patch Changes

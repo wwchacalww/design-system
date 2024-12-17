@@ -1,5 +1,11 @@
 # @ielo-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Fix error on TextInput
+
 ## 2.0.1
 
 ### Patch Changes
