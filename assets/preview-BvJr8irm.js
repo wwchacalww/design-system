@@ -1,0 +1,1 @@
+import{N as a}from"./index-CLqDXS6w.js";import"./index-BzhKaBtb.js";import"./_commonjsHelpers-CqkleIqs.js";const t={parameters:{backgrounds:{values:[{name:"Dark",value:"#333"},{name:"Light",value:"#F7F9F2"},{name:"Maroon",value:"#400"}],default:"Dark"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},docs:{theme:a.dark}}};export{t as default};
