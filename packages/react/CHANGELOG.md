@@ -1,5 +1,11 @@
 # @ielo-ui/react
 
+## 2.0.3
+
+### Patch Changes
+
+- Remove folder dist on .gitignore
+
 ## 2.0.2
 
 ### Patch Changes
